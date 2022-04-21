@@ -32,7 +32,7 @@ const Admin=()=> {
   </Form.Floating>
   <br/>
   <div className="admin">
-  <Button variant="success"><Link to={`/Register`}>Login</Link></Button>{' '}
+  <Button variant="secondary"><Link to={`/Register`}>Login</Link></Button>{' '}
   <Button variant="warning">Cancel</Button>{' '}
   </div>
   </div>
