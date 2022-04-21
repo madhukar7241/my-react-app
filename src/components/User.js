@@ -111,7 +111,7 @@ const User =()=> {
  aria-describedby="passwordHelpBlock"/><br/>
  <center>
  
- <Button variant="success" onClick={updatechange}>Update</Button>{' '}
+ <Button variant="warning" onClick={updatechange}>Update</Button>{' '}
 <Button variant="warning">Cancel</Button>{' '}
  </center>
  </div>
